@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Wst\IeC {\k e}p}{3}{section.1}
+\contentsline {section}{\numberline {2}Om\IeC {\'o}wienie teoretyczne algorytmu LZW}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Cechy metody LZW}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Algorytm LZW}{3}{subsection.2.2}
+\contentsline {section}{\numberline {3}Projekt i dzia\IeC {\l }anie programu}{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}Projekt}{4}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Implementacja}{5}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Modu\IeC {\l } g\IeC {\l }\IeC {\'o}wny - main.py}{5}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Algorytm LZW}{5}{subsubsection.3.2.2}
+\contentsline {section}{\numberline {4}Podsumowanie i obserwacje}{7}{section.4}

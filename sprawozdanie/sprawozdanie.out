@@ -1,0 +1,10 @@
+\BOOKMARK [1][-]{section.1}{Wstep}{}% 1
+\BOOKMARK [1][-]{section.2}{Om\363wienie teoretyczne algorytmu LZW}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Cechy metody LZW}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Algorytm LZW}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Projekt i dzia\233anie programu}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Projekt}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Implementacja}{section.3}% 7
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Modu\233 g\233\363wny - main.py}{subsection.3.2}% 8
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Algorytm LZW}{subsection.3.2}% 9
+\BOOKMARK [1][-]{section.4}{Podsumowanie i obserwacje}{}% 10
